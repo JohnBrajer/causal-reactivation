@@ -1,0 +1,36 @@
+{
+  "title": "Causal Reactivation by John Brajer",
+  "description": "Causal Reactivation by John Brajer: wake possibilities when the conditions that suppressed them materially change.<br><br>Part of Brajology, the original research of John Brajer (Trillsverse). Canon: https://www.lultrills.com \u00b7 Research: https://www.mymindmine.com \u00b7 https://trillsverse.com",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Brajer, John",
+      "orcid": "0009-0004-0113-1341",
+      "affiliation": "Trillsverse LLC"
+    }
+  ],
+  "keywords": [
+    "Brajology",
+    "John Brajer",
+    "Trillsverse",
+    "artificial-intelligence",
+    "causal-reactivation",
+    "causal-reasoning",
+    "intelligence-injections",
+    "john-brajer",
+    "possibility-reserve",
+    "trillsverse"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.mymindmine.com",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://www.lultrills.com/entities.jsonld",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ]
+}

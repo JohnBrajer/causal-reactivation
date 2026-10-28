@@ -1,11 +1,24 @@
 cff-version: 1.2.0
-message: "If you reference this framework, cite this repository and John Brajer as creator."
-title: "Causal Reactivation"
-type: dataset
+message: "If you use or reference this work, please cite it as below."
+title: "Causal Reactivation by John Brajer"
+abstract: "Causal Reactivation by John Brajer: wake possibilities when the conditions that suppressed them materially change."
+type: software
 authors:
-  - family-names: "Brajer"
-    given-names: "John"
-version: "0.1"
-date-released: "2026-09-25"
-url: "https://github.com/JohnBrajer/causal-reactivation"
+  - family-names: Brajer
+    given-names: John
+    orcid: "https://orcid.org/0009-0004-0113-1341"
+    affiliation: "Trillsverse LLC"
+    website: "https://trillsverse.com"
 repository-code: "https://github.com/JohnBrajer/causal-reactivation"
+url: "https://www.mymindmine.com"
+keywords:
+  - "Brajology"
+  - "John Brajer"
+  - "Trillsverse"
+  - "artificial-intelligence"
+  - "causal-reactivation"
+  - "causal-reasoning"
+  - "intelligence-injections"
+  - "john-brajer"
+  - "possibility-reserve"
+  - "trillsverse"
