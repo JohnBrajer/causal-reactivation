@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Causal Reactivation by John Brajer"
 abstract: "Causal Reactivation by John Brajer: wake possibilities when the conditions that suppressed them materially change."
 type: software
+doi: "10.5281/zenodo.23718083"
 authors:
   - family-names: Brajer
     given-names: John
